@@ -1,0 +1,8 @@
+Karan,Washroom Bottom
+Shivani,Kitchen Floor
+Sharvil,Garbage & Fill Liquids
+Henil,Kitchen Platform
+Toshak,Hall Room & Dining Clean
+Ankit,Washroom Top
+Riddhi,Staircase & Shoe Rack Area
+Yatri,Kitchen Floor on upcoming Wednesday
